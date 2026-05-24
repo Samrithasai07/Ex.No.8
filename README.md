@@ -1,7 +1,7 @@
 ## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :
-# Reg. No. 
+# Date : 24\5\2026
+# Reg. No. 212224040286
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
@@ -48,8 +48,38 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated images, along with any adjustments made to the prompt.
 
-## Conclusion:
-By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
-
 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+# Basic Prompt
+
+A cute tabby kitten sitting outdoors on a pathway, looking directly at the camera with a blurred green background.
+<img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/8fd883c0-6ee6-4f03-8bde-c21e9de698e0" />
+
+# Refined Prompt
+
+A highly realistic close-up portrait of a small brown-and-black tabby kitten sitting on a rough outdoor pathway, facing the camera with a happy smiling expression and slightly open mouth. The kitten has large grey-green eyes, detailed striped fur, soft whiskers, upright ears with pink inner fur, and fluffy paws placed neatly in front. Natural daylight lighting, shallow depth of field, blurred green foliage background with creamy bokeh, ultra-sharp focus on the kitten’s face, warm natural colors, adorable mood, DSLR photography style, cinematic composition, 4K realistic animal photography.
+
+<img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/11555722-7150-44f7-aa5f-38e0f90881d2" />
+
+# Comparison Summary
+The AI-generated image closely matches the original cat image in appearance, background, and composition. The tabby fur pattern, green blurred background, and realistic outdoor lighting were successfully preserved. The upgraded version added a smiling expression and improved details like fur texture and sharpness, making the image look more lively and visually enhanced while still keeping the same cat appearance.
+
+# Basic Prompt
+
+A black Volkswagen hatchback car parked outdoors on a road with a natural countryside background.
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fbe46de2-14f4-423f-b039-3d34ad3372f5" />
+
+
+# Refined Prompt
+
+A highly detailed Volkswagen hatchback (black/dark grey) parked on a smooth road during sunset. The car is shown from a front three-quarter angle with strong golden hour lighting reflecting on its glossy surface. The Volkswagen logo is clearly visible on the grille, with sporty alloy wheels and sleek modern design. Background features rolling hills, dramatic orange and golden sky, and soft atmospheric haze. Professional automotive photography, cinematic lighting, ultra-realistic style, HDR effect, shallow depth of field, sharp focus on car, 4K resolution.
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4d55eeec-c3b4-4c17-9816-9a67495e5575" />
+
+# Comparison Summary
+The comparison between the two Volkswagen images shows that both feature the same black hatchback car with a consistent front three-quarter angle and realistic outdoor composition. The first image has a simple countryside background with natural daylight and a clean, realistic photography style, making it look like an everyday car photo. In contrast, the second image enhances the scene with a dramatic sunset sky, warm golden lighting, and stronger reflections on the car body, giving it a more cinematic and advertisement-style appearance. While both images maintain similar car details and composition, the second image stands out due to its richer lighting, improved visual depth, and more professional, polished look.
+
+
+## Conclusion:
+By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
